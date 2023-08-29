@@ -1,0 +1,33 @@
+body {
+    background-color: hsl(212, 45%, 89%);
+    display: flex;
+    place-content: center;
+    
+
+}
+
+.card {
+    border-radius: 4%;
+    background-color: hsl(0, 0%, 100%);
+    width: 375px;
+}
+
+h2 {
+    font-weight: bold;
+    padding: 10px;
+    font-family: 'Outfit', sans-serif;
+    text-align: center;
+    color: hsl(218, 44%, 22%);
+}
+
+p {
+    font-size: 15px;
+    font-weight: 400;
+    color: hsl(220, 15%, 55%);
+}
+
+img {
+    width: 355px;
+    padding: 10px;
+    border-radius: 5%;
+}
